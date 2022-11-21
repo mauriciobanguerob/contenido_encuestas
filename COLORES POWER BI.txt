@@ -1,0 +1,18 @@
+COLOR INSTITUCIONAL POWER BI
+VERDE OSCURO: 286136
+VERDE OLIVO: b6bf2a
+VERDE CLARO: c4cb00
+AMARILLO QUEMADO: e8c026
+NARANJA: de7e1a
+GRIS: 9a9a9a
+
+
+https://www.site24x7.com/es/tools/selector-de-codigo-color.html
+
+
+
+SI(K2=1;"Nada Agil";SI(K2=2;"Nada Agil";SI(K2=3;"Poco Agil";SI(K2=4;"Poco Agil";SI(K2=5;"Aceptable";SI(K2=6;"Aceptable";SI(K2=7;"Agil";SI(K2=8;"Agil";"Muy Agil"))))))))
+
+
+Excluir
+29072481
